@@ -1,2 +1,2 @@
 # petshop-api
-Repositório para API de gerenciamento de petshop utilizando Rest com NodeJS 
+Repositório para API Rest de gerenciamento de petshop utilizando NodeJS 
